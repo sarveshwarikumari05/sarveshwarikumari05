@@ -2,14 +2,14 @@
 Hi, I’m Sarveshwari Kumari
  A B.Tech student (2nd year) exploring the world of software development and open source and passionate about learning by building real-world projects and improving step by step.
 
-   What I’m learning & working on
+   What I’m learning & working on:-
 🌐 Frontend: HTML, CSS, JavaScript
 🐍 Backend & Logic: Node.js
 📊 Databases: MySQL , MongoDB
 🤖 Exploring AI-powered applications & problem solving
 🌱 Preparing for hackathons, open-source contributions.
 
-🎯 Goals
+🎯 Goals:-
 Contribute to open-source organizations.
   Improve DSA & problem-solving skills.
   Grow as a confident software developer.
