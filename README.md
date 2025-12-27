@@ -10,9 +10,9 @@ Hi, I’m Sarveshwari Kumari
 🌱 Preparing for hackathons, open-source contributions.
 
 🎯 Goals
-Contribute to open-source organizations
-Improve DSA & problem-solving skills
-Grow as a confident software developer
+Contribute to open-source organizations.
+  Improve DSA & problem-solving skills.
+  Grow as a confident software developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarveshwari-kumari-040878344) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indiansarveshwarii@gmail.com) 
