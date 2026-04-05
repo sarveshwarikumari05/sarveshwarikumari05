@@ -1,6 +1,6 @@
 #  About Me:
-Hi, I’m Sarveshwari Kumari
- A B.Tech student (2nd year) exploring the world of software development and open source and passionate about learning by building real-world projects and improving step by step.
+Hi, I’m Sarveshwari Kumari,
+ a B.Tech student (2nd year) exploring the world of software development and open source and passionate about learning by building real-world projects and improving step by step.
 
    What I’m learning & working on:-
 🌐 Frontend: HTML, CSS, JavaScript
